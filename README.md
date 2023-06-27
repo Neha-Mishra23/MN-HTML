@@ -21,6 +21,6 @@ Example : &nbsp; , &pound; , &euro; ,&copy; etc.
 7. What are different types of lists in HTML? With Example.
 Ans. In HTML Three type of Order List.
    1} Order List                 2} Unorder List                                                       3} Description List/ Other List
-   First item                      o} Dairy Milk                                                         Dairy Milk is More Flavour is Availble. EX- Fudge Cookie Crumble, Silk, Brown Flavour..
-   Second item                     0} 5 Star                                    
-   Third item                      0} Munch
+   First item                      o} Dairy Milk                                                        - Dairy Milk is More Flavour is Availble. EX- Fudge Cookie Crumble, Silk, Brown Flavour..
+   Second item                     0} 5 Star                                                            - 5 star is more Flavour is Available. Ex- 5 Star 3D, 5 Star Crunchy, 5 Star Fruit and Nut, 5 Star HazelNut.
+   Third item                      0} Munch                                                             - In Munch 2 type of Varierty is Availble. Nestle Munch Crunch O Nuts Chocolate.                          
