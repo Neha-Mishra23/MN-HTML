@@ -42,3 +42,27 @@ Cell Spacing : It is used to control the distance between two adjacent cells. Ex
 Ans. Using the rowspan and colspan attribute in HTML. The rowspan is used to merge or combine the number of cells in a row whereas the colspan is used to merge column cells in a table
 Ex- <td rowspan="2">cell data</td>
 Ex- <td colspan="2">cell data</td>
+13. What is the difference between a block-level element and an inline element
+Ans. Block Elements occupy the full width irrespective of their sufficiency. Inline elements don't start in a new line.
+14. How to create a Hyperlink in HTML? With Example
+Ans. Use the <a href=""> element to define a link.
+Ex- <a href="https://www.Flipkart.com">
+15. What is the use of an iframe tag? With Example.
+Ans. The iframe in HTML stands for Inline Frame, Like : Youtube, Google Map
+Ex- <iframe src="URL" title="description"></iframe>
+16. What is the use of a span tag? Explain with example?
+Ans. A Span tag which is used to color a part of a text.
+Ex- <p>My mother has <span style="color:blue">blue</span> eyes.</p>
+17. How to insert a picture into a background image of a web page? With Example.
+Ans. To insert an image in HTML, use the image tag and include a source and alt attribute.
+Ex- <body background = "URL or path" > Website Body </body>
+18. How are active links different from normal links?
+Ans. Normal links are links which are there on the page and have not been clicked yet. Active links are those links, which have just been clicked at that instant.
+19. What are the different tags to separate sections of text?
+Ans. The <br> tag is one way to separate the lines of text. There are other tags like the <p> tag and <blockquote> tag that are also used to separate sections of text.
+20. What is SVG?
+Ans. SVG stands for Scalable Vector Graphics. SVG is used to define graphics for the Web.
+21. What is difference between HTML and XHTML?
+Ans. HTML is the standard markup language for creating web pages, while XHTML is a stricter and more standardized version of HTML.
+22. What are logical and physical tags in HTML?
+Ans. Logical Tags are used in HTML to display the text according to the logical styles, & Physical Tags are used in HTML to provide actual physical formatting to the text.
