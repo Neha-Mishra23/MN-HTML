@@ -29,7 +29,7 @@ Ans. In HTML Three type of Order List.
                                                                                     Nuts Chocolate.                          
 8. What is the ‘class’ attribute in HTML? With Example
 Ans. Class attribute is used to specify a class for an HTML element.
-Ex- <h2 class="city main">London</h2>
+Ex- <h1 class="city main">London</h1>
 9. What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements? With Example
 Ans. ID : In HTML, the "id" selector is used id attribute of an element. For an HTML element, the "id" name starts with the symbol '#' followed by a unique name. Ex - <div id = “id1”> </div>
 Class : Class are used to group elements having similar functionalities. Ex- <div class = “class_A class_B class_C”> </div>
